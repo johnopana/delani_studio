@@ -1,5 +1,5 @@
-.Three {
-    background-image: url(".im");
+.three {
+    background-image: url("../images/backgrounds/h_img.jpg");
     background-size: cover;
     height: 700px;
     background-repeat: no-repeat;
