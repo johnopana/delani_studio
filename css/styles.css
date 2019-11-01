@@ -22,4 +22,6 @@
 .services {
     background: url("../images/backgrounds/s_image.jpg");
     height:60vh;
+    font-size: 2em;
+    color: white;
 }
