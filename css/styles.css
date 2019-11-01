@@ -18,3 +18,8 @@
     align-content: center;
     justify-content: center;
 }
+
+.services {
+    background: url("../images/backgrounds/s_image.jpg");
+    height:60vh;
+}
