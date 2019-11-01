@@ -1,0 +1,10 @@
+.Three {
+    background-image: url(".im");
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 30px;
+    margin-bottom: 0px;
+}
