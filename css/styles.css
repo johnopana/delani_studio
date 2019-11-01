@@ -8,3 +8,13 @@
     line-height: 30px;
     margin-bottom: 0px;
 }
+.three h1{
+    font-size: 50px;
+    color: white;
+    line-height: 90px;
+}
+#logo{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
