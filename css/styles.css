@@ -36,4 +36,16 @@
   padding-top: 100px;
   line-height: 30px;
   margin-bottom: 0px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+form {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+textarea {
+  width: 100%;
 }
