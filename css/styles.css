@@ -1,29 +1,39 @@
 .three {
-    background-image: url("../images/backgrounds/h_img.jpg");
-    background-size: cover;
-    height: 700px;
-    background-repeat: no-repeat;
-    text-align: center;
-    padding-top: 100px;
-    line-height: 30px;
-    margin-bottom: 0px;
+  background-image: url("../images/backgrounds/h_img.jpg");
+  background-size: cover;
+  height: 700px;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: 100px;
+  line-height: 30px;
+  margin-bottom: 0px;
 }
-.three h1{
-    font-size: 50px;
-    color: white;
-    line-height: 90px;
+.three h1 {
+  font-size: 50px;
+  color: white;
+  line-height: 90px;
 }
-#logo{
-    display: flex;
-    align-content: center;
-    justify-content: center;
+#logo {
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
 
 .services {
-    background: url("../images/backgrounds/s_image.jpg");
-    height:60vh;
-    font-size: 2em;
-    color: white;
-    display:block;
-    text-align: center;
+  background: url("../images/backgrounds/s_image.jpg");
+  height: 60vh;
+  font-size: 2em;
+  color: white;
+  display: block;
+  text-align: center;
+}
+.contact {
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-size: cover;
+  height: 700px;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: 100px;
+  line-height: 30px;
+  margin-bottom: 0px;
 }
