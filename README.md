@@ -43,6 +43,7 @@ This a website created for a company that deals with design, software developmen
 - HTML
 - CSS
 - JavaSCript
+- JQuery
 
 ## support and contact details
 Feel free to provide your feedback and raise any matter concerning the project through;
