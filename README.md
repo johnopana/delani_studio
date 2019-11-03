@@ -12,7 +12,13 @@ This a website created for a company that deals with design, software developmen
 ## Features
 - Input name
 - Input email address
-- Output massage
+- Output massageHome
+- About us
+- Services
+- What we do
+- Contact us
+- Footer
+
 
 
 ## Installation and set up
