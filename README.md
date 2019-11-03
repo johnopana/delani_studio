@@ -12,7 +12,7 @@ This a website created for a company that deals with design, software developmen
 ## Features
 - Input name
 - Input email address
-- Output massageHome
+- Output message
 - About us
 - Services
 - What we do
@@ -28,7 +28,10 @@ This a website created for a company that deals with design, software developmen
 - 4.You may open index.html to see my applications
 
 ## known Bugs
-A formular showing the day of birth as the result being inconsistant
+
+This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
+
+
 
 ## BDD
 - This project capture the day  of the week and your Akan name  after filling the blank boxes below
