@@ -7,7 +7,7 @@ John Opana
 
 ## Description
 
-This is a web application that take your birthday informations and get you the day,month and year of your birth depending on your gender status and also output your Akan Name.Akan Names are derived from Ghanian culture where children are given their first Names as (a day name) which corresponds to the day of the week they ware given birth to.
+This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
 
 ## Features
 - Input name
