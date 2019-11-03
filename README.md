@@ -1,6 +1,6 @@
 # Delani studio.
 
-### - A web app that that generate Akan name by filling in the forms  such as date of birth and gender status on which one was born.
+### - This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
 
 ## Author
 John Opana
