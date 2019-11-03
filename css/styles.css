@@ -1,12 +1,16 @@
 .three {
   background-image: url("../images/backgrounds/h_img.jpg");
   background-size: cover;
-  height: 700px;
+  height: 800px;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 70px;
   line-height: 30px;
   margin-bottom: 0px;
+  margin-left: 250px;
+  margin-right: 250px;
+
+
 }
 .three h1 {
   font-size: 50px;
@@ -21,16 +25,18 @@
 
 .services {
   background: url("../images/backgrounds/s_image.jpg");
-  height: 60vh;
-  font-size: 2em;
+  height: 40vh;
   color: white;
   display: block;
   text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-top:150px;
 }
 .contact {
   background-image: url("../images/backgrounds/c_image.jpg");
   background-size: cover;
-  height: 700px;
+  height: 600px;
   background-repeat: no-repeat;
   text-align: center;
   padding-top: 100px;
@@ -39,6 +45,8 @@
   display: block;
   justify-content: center;
   text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 form {
@@ -48,4 +56,11 @@ form {
 }
 textarea {
   width: 100%;
+}
+.about{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#sign{
+    padding-top: 50px;
 }
