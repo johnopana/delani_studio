@@ -34,8 +34,8 @@ This a website created for a company that deals with design, software developmen
 
 
 ## BDD
-- This project capture the day  of the week and your Akan name  after filling the blank boxes below
-- You are required to fill in all the boxes and one of the box is skipped then on the display below the information will be "undefined"for the name and Akan  name.
+- This project capture the name and email address ,typing your massage and after sending you will be able receive your message.
+- You are required to fill in all the boxes and one of the box if skipped then on the display below the information  message wont be valid on the message box.
 
 
 
