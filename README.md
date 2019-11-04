@@ -3,6 +3,7 @@
 ### - This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
 
 ## Author
+
 John Opana
 
 ## Description
@@ -10,6 +11,7 @@ John Opana
 This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
 
 ## Features
+
 - Input name
 - Input email address
 - Output message
@@ -19,9 +21,8 @@ This a website created for a company that deals with design, software developmen
 - Contact us
 - Footer
 
-
-
 ## Installation and set up
+
 - 1.Seeing th project require one to visit README and click on the link provided
 - 2.Click on the downloading a ZIP button file of the code
 - 3.Extract the option and open
@@ -31,38 +32,40 @@ This a website created for a company that deals with design, software developmen
 
 This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
 
-
-
 ## BDD
+
 - This project capture the name and email address ,typing your massage and after sending you will be able receive your message.
-- You are required to fill in all the boxes and one of the box if skipped then on the display below the information  message wont be valid on the message box.
-
-
+- You are required to fill in all the boxes and one of the box if skipped then on the display below the information message wont be valid on the message box.
 
 ## Technology used
+
 - HTML
 - CSS
 - JavaSCript
 - JQuery
 
 ## support and contact details
+
 Feel free to provide your feedback and raise any matter concerning the project through;
+
 - johnopana2016@gmail.com
 - slack(moringa-school)John Opana
 
 ## screenshot
-![project screenshot](images/screenshot.png)
+
+![project screenshot](images/page1.png)
+![project screenshot](images/page2.png)
+![project screenshot](images/page3.png)
+![project screenshot](images/page4.png)
 
 ## Github page link
-- View the my project on liv application through https://github.com/johnopana/AkanName
 
+- View the my project on liv application through https://github.com/johnopana/AkanName
 
 ## License
 
 ### MIT license.
+
 The MIT license
-* Copyright john opana 2019
 
-
-
-
+- Copyright john opana 2019
