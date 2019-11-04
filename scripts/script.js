@@ -22,3 +22,10 @@ document.querySelector('#product').addEventListener('click', function(){
     document.querySelector('#product').style.display = 'none';
     document.querySelector('#image3').style.display = 'block';
 })
+ // **Portfolio1
+ $(".portfolio-box-1").mouseenter(function() {
+    $(".description-1").show(500);
+  });
+  $(".portfolio-box-1").mouseleave(function() {
+    $(".description-1").hide(1000);
+  });

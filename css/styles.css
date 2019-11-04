@@ -81,3 +81,26 @@ textarea {
 #sign {
   color: #000;
 }
+.portfolio1,
+.portfolio2,
+.portfolio3,
+.portfolio4,
+.portfolio5,
+.portfolio6,
+.portfolio7,
+.portfolio8 {
+  display: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one,
+.two,
+.tree,
+.four,
+.five,
+.six,
+.seven,
+.eight {
+  position: absolute;
+}
