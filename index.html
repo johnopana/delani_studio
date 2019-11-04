@@ -18,7 +18,7 @@
       <div class="row" id="start">
 
         <div class="col-md-12">
-          <div class="three">
+          <div class="three text-center">
             <img src="./images/logo/logo.png" id="logo" />
             <h1>WELCOME</h1>
             <h1>TO DELANI STUDIO</h1>
@@ -235,35 +235,31 @@
         <h4 class="text-center con">CONTACT US</h4>
         <div class="row-flex justify- content-center">
             <div>
-                    <form>
-                        <div class="row">
-                            <div class="form-group col-md-6">
-                              <label for="exampleInputEmail1"></label>
-                              <input type="name" class="form-control" id="InputName" aria-describedby="namelHelp" placeholder="Enter name">
+                  <form>
+                      <div class="row">
+                          <div class="form-group col-md-6">
+                            <label for="exampleInputEmail1"></label>
+                              <input type="name" class="form-control" id="inputName" aria-describedby="nameHelp" placeholder="Enter name">
                               
                             </div>
                             <div class="form-group col-md-6">
                               <label for="InputEmail"></label>
-                              <input type="Email address" class="form-control" id="InputEmail Address" placeholder="Email address">
+                              <input type="Email" class="form-control" id="inputEmail" placeholder="Email address">
                             </div>
                             </div>
-                    </form >
+                            <div class="text-center">
+                                        <textarea
+                                          name="message"
+                                          id="inputMessage"
+                                          col="60"
+                                          rows="10"
+                                          placeholder="Your massage here"
+                                        ></textarea>
+                                      </div>
 
-        <div class="row">
-          <form class="mb-4">
-            <div class="text-center">
-              <textarea
-                name="massage"
-                id="massage"
-                col="60"
-                rows="10"
-                placeholder="Your massage here"
-              ></textarea>
-            </div>
-            <button type="submit" id="btns" class="btn btn-primary">
-              Submit
-            </button>
-          </form>
+                            <button type="button" id="btns" class="btn btn-primary" onclick="submit()">
+                                Submit</button>  <div class="row">
+                                              </form>
         </div>
       </div>
       <footer>
