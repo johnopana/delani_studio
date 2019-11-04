@@ -60,7 +60,7 @@ Feel free to provide your feedback and raise any matter concerning the project t
 
 ## Github page link
 
-- View the my project on liv application through https://github.com/johnopana/AkanName
+- View the my project on live application through https://johnopana.github.io/delani_studio/
 
 ## License
 
