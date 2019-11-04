@@ -89,10 +89,11 @@ textarea {
 .portfolio6,
 .portfolio7,
 .portfolio8 {
-  display: relative;
+  position:relative;
   display: flex;
-  justify-content: center;
+  justify-content:center;
   align-items: center;
+  flex-direction: column;
 }
 .one,
 .two,
@@ -102,5 +103,11 @@ textarea {
 .six,
 .seven,
 .eight {
-  position: absolute;
+  position:absolute;
+  text-align: center;
+  color: orangered;
+  font-size: 2em;
+}
+#inputEmail{
+border: 5px solid white;
 }
