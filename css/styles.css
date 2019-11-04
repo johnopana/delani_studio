@@ -1,16 +1,16 @@
 .three {
   background-image: url("../images/backgrounds/h_img.jpg");
   background-size: cover;
-  height: 800px;
+  height: 100vh;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 70px;
+  padding-top: 30px;
   line-height: 30px;
   margin-bottom: 0px;
-  margin-left: 250px;
-  margin-right: 250px;
-
-
+}
+#parap {
+  color: white;
+  font-size: 2em;
 }
 .three h1 {
   font-size: 50px;
@@ -22,6 +22,9 @@
   align-content: center;
   justify-content: center;
 }
+#about {
+  padding-top: 50px;
+}
 
 .services {
   background: url("../images/backgrounds/s_image.jpg");
@@ -29,10 +32,27 @@
   color: white;
   display: block;
   text-align: center;
-  margin-left: 250px;
-  margin-right: 250px;
-  padding-top:150px;
+  margin-top: 50px;
 }
+#design {
+  position: absolute;
+  top: 10%;
+  display: none;
+}
+.portfolio {
+  margin-bottom: 50px;
+}
+#development {
+  position: absolute;
+  top: 10%;
+  display: none;
+}
+#product {
+  position: absolute;
+  top: 10%;
+  display: none;
+}
+
 .contact {
   background-image: url("../images/backgrounds/c_image.jpg");
   background-size: cover;
@@ -45,23 +65,19 @@
   display: block;
   justify-content: center;
   text-align: center;
-  margin-left: 250px;
-  margin-right: 250px;
   color: white;
+  padding-top: 100px;
 }
 
 form {
   display: block;
   margin: 0 auto;
   width: 60%;
+  padding-top: 0px;
 }
 textarea {
   width: 100%;
 }
-.about{
-    margin-left: 250px;
-    margin-right: 250px;
-}
-#sign{
-    padding-top: 50px;
+#sign {
+  color: #000;
 }
