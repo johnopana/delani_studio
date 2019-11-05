@@ -8,10 +8,7 @@ John Opana
 
 ## screenshot
 
-![project screenshot](images/pic0.png)
-![project screenshot](images/pic1.png)
-![project screenshot](images/pic23.png)
-![project screenshot](images/pic3.png)
+<img src="images/delani.jpg">
 
 
 ## Description
