@@ -8,10 +8,10 @@ John Opana
 
 ## screenshot
 
-![project screenshot](images/page1.png)
-![project screenshot](images/page2.png)
-![project screenshot](images/page3.png)
-![project screenshot](images/page4.png)
+![project screenshot](images/pic0.png)
+![project screenshot](images/pic1.png)
+![project screenshot](images/pic23.png)
+![project screenshot](images/pic3.png)
 
 
 ## Description
