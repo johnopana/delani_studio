@@ -6,6 +6,14 @@
 
 John Opana
 
+## screenshot
+
+![project screenshot](images/page1.png)
+![project screenshot](images/page2.png)
+![project screenshot](images/page3.png)
+![project screenshot](images/page4.png)
+
+
 ## Description
 
 This a website created for a company that deals with design, software development and project management. The website is responsive so it looks good in devices of different screen sizes.
@@ -50,13 +58,6 @@ Feel free to provide your feedback and raise any matter concerning the project t
 
 - johnopana2016@gmail.com
 - slack(moringa-school)John Opana
-
-## screenshot
-
-![project screenshot](images/page1.png)
-![project screenshot](images/page2.png)
-![project screenshot](images/page3.png)
-![project screenshot](images/page4.png)
 
 ## Github page link
 
