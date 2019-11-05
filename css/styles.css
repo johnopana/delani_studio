@@ -118,3 +118,6 @@ textarea {
   font-size: 2em;
   border: 2px solid white;
 }
+#footer {
+  padding-top: 50px;
+}
