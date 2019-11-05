@@ -80,18 +80,16 @@ $(document).ready(function() {
   $(".portfolio8").mouseleave(function() {
     $(".eight").hide(1000);
   });
-});
 
-$(document).ready(function() {
   // Form validation
-  $("form").click(function(event) {
+  $(".btn").click(function(event) {
     event.preventDefault();
     let name = $("#inputName").val();
     let email = $("#inputEmail").val();
     let message = $("#inputMessage").val();
 
     if (name == "" || email == "" || message == "") {
-      alert("Please enter your name");
+      alert("Please enter all the information");
     } else {
       alert(
         "Thank you " + name + " for reaching out. We've recieved your message"
